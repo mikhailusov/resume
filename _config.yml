@@ -21,7 +21,7 @@ resume_contact_telephone:       "510-610-4324"
 resume_contact_address:         "Berkeley, CA"
 
 resume_header_contact_info:     "Berkeley, CA • 510-610-4324 • musov@protonmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Seasoned Software Engineer with 10+ years of experience working on different projects across multiple stacks and domains. Familiar with a wide range of technologies but mostly been concentrated on backend development, distributed systems, and cloud-based microservices.</p>"
 
@@ -39,7 +39,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+#resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
